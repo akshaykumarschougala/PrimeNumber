@@ -6,4 +6,4 @@ if N > M:
 else:
   print("M is greater than N")
   # Code block for false condition
-  # Taking input for variables N and M
+  # Taking input for variables N and M test
