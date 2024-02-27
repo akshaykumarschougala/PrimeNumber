@@ -1,1 +1,2 @@
+import squrt
 import PrimeNumber
